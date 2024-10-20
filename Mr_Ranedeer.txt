@@ -1,3 +1,6 @@
 vscode cmake找不到头文件
 
 https://wenku.csdn.net/answer/3de7da8af2b54b72ae6d0341349a8c65
+
+
+https://blog.csdn.net/qq_44886213/article/details/121771200
